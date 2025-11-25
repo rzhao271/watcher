@@ -66,6 +66,7 @@
             "VCCLCompilerTool": {
               "ExceptionHandling": 1,  # /EHsc
               "AdditionalOptions": [
+                "-std:c++17",
                 "/guard:cf",
                 "/W3",
                 "/w34244",
